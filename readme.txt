@@ -1,7 +1,7 @@
 To Do:
 
 1. Decide the theme of the website.
-  a. International Research Laboratory of Experimental Technology - Since 2010, we are a private research lab whose purpose is to invent 'futuristic' gadgets, including but not limited to: reliable wormhole travel, FTL drives, and time machines.
+  a. International Research Laboratory of Experimental Technology (Name subject to change) - Since 2010, we are a private research lab whose purpose is to invent 'futuristic' gadgets, including but not limited to: reliable wormhole travel, FTL drives, and time machines.
 
 2. Create 10 pages (+CSS).
 
