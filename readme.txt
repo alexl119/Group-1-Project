@@ -8,12 +8,12 @@ To Do:
   L - Liam | E - Elijah | A - Alex | Q - Quinn
 
   a. Home Page - L
-  b. About -
-  c. History -
+  b. About - E
+  c. History - Q
   d. Mission Statement -
-  e. Contact -
-  f. Projects -
-  g.
+  e. Contact - L
+  f. Projects - Q + others maybe
+  g. Calender - A
   h.
   i.
   j.
