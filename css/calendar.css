@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+
+}
+#wrappertable{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../images/project/computer.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+table, th, tr, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+table{
+    background-color: white;
+    margin: 80px auto;
+    box-shadow: 0 10px 60px rgba(0,0,0,0,.9);
+}
+th, tr, td{
+    padding: 20px;
+}
+caption{
+    background-image: url(../images/project/computerboard.jpg);
+    height: 200px;
+    padding: 2em;
+    color: white;
+    font-size: 40px;
+
+
+}
+tr:nth-child(even){
+    background-color: lightblue;
+}
+td.active, td:hover{
+    color: white;
+    background-color: lightblue;
+    cursor: grab;
+}
